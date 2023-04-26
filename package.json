@@ -1,0 +1,20 @@
+{
+  "name": "createpokemonlambda",
+  "version": "1.0.0",
+  "description": "Lambda Code For Updating Pokemon in DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobKnaack/createPokemonLambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobKnaack/createPokemonLambda/issues"
+  },
+  "homepage": "https://github.com/JacobKnaack/createPokemonLambda#readme"
+}
