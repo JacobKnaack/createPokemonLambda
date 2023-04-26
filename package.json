@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JacobKnaack/createPokemonLambda/issues"
   },
-  "homepage": "https://github.com/JacobKnaack/createPokemonLambda#readme"
+  "homepage": "https://github.com/JacobKnaack/createPokemonLambda#readme",
+  "dependencies": {
+    "dynamoose": "^3.2.0"
+  }
 }
